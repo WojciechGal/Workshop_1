@@ -1,3 +1,3 @@
 # Warsztaty_1
 
-Rożne zadania i gry z warsztatów.
+Various tasks and games from workshop number 1 - Guess number, Lotto, Dice and Search engine for popular words.
